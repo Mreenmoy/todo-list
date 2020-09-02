@@ -7,7 +7,7 @@ pip install Flask
 Run the below command to start the server
 -> touch run.py the app
 
-change current directory to app
+change current directory to app(where you have stored the file)
 -> cd app
 
 Run the todo app by using the below command
