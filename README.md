@@ -6,9 +6,11 @@ after installation :
             -> open Command Prompt
             -> run the command " get pip.py"
             
-          
+COMPLETE SETUP 
+------------------------
+
 Download the app.rar file and store it in a location of your desire
----------------------------------------------------------------------
+
 In cmd : type the following cammands
 
 ->  " pip install Flask " 
@@ -27,6 +29,7 @@ direct the path to main file by using the following cammand:
 TO RUN THE APPLICATION 
 --------------------------------------------------------------------
 Run the todo app by using the below command
+
 ->  " python run.py " 
 
 
