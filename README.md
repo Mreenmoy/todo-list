@@ -1,4 +1,4 @@
-download the file and store it in a location of your desire
+download the app.rar file and store it in a location of your desire
 
 In cmd : type the following cammands
 
