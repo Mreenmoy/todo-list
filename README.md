@@ -1,9 +1,10 @@
 INSTALL PYTHON
 ---------------------------------------------------------------------------------------------
 Download and install Python from -> https://www.python.org/ftp/python/3.8.5/python-3.8.5.exe
+
 after installation : 
             -> open Command Prompt
-            -> run the cammand " get pip.py"
+            -> run the command " get pip.py"
             
           
 Download the app.rar file and store it in a location of your desire
