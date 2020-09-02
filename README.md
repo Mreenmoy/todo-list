@@ -10,6 +10,10 @@ Run the below command to start the server
 change current directory to app(where you have stored the file)
 -> cd app
 
+direct the path to main file by using the following cammand:
+
+touch models.py toutes.py 1st..py
+
 Run the todo app by using the below command
 python run.py
 
